@@ -1,0 +1,15 @@
+{
+  "name": "solidity-typescript-hardhat-ethers-waffle",
+  "version": "0.0.1",
+  "description": "Solidity-typescript with hardhat, ethers.js, waffle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClusterH/solidity-hardhat-ethers-waffle-typescript.git"
+  },
+  "author": "Cluster",
+  "license": "MIT"
+}
